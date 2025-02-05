@@ -70,9 +70,9 @@ export default function Card(props) {
         <div className="card transition-transform blur-xl z-2 w-80 h-52 bg-[#ecb9e5] shadow-xl rounded-xl absolute flex flex-col flex-wrap items-center">
           <div
             className="text-1 relative mt-4 mx-11 text-3xl text-right select-none">
-            Happy Valentine's Day!
+            Happy upcoming Valentine's Day Pintu jaat <3 !
           </div>
-          <div className="relative text-right text-xl font-bold mt-1 mx-14 text-transparent bg-clip-text bg-gradient-to-br from-[#42275a] to-[#753a88] select-none">I have written something for you
+          <div className="relative text-right text-xl font-bold mt-1 mx-14 text-transparent bg-clip-text bg-gradient-to-br from-[#42275a] to-[#753a88] select-none">(click below tere liye message hai)
           </div>
           <div
             className="button-2 w-fit h-fit hidden">
@@ -82,7 +82,7 @@ export default function Card(props) {
               >
                 <div
                   className="z-0 text-button text-center text-base font-bold text-transparent bg-clip-text bg-gradient-to-br from-[#eecda3] to-[#a8e063] select-none">
-                  A Message
+                  squeeze me
                 </div>
               </button>
             </Link>
